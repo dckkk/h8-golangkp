@@ -1,0 +1,6 @@
+{
+    "appName": "Simple Apps2",
+    "server": {
+        "appPort": ":8089"
+    }
+}
